@@ -1,0 +1,19 @@
+# Look for urgent or threatening language in the email body.
+
+Artificial Time Constraints
+
+Phishing emails often create a false sense of urgency to bypass your critical thinking.
+"Urgent": The subject line immediately flags the message as a critical priority.
+"Suspended within the next 12 hours": This specific timeframe is designed to make you act quickly before you have time to verify the claim.
+"Immediately": The email demands that you verify your identity right away.
+
+
+Threats of Severe Consequences
+The email uses threats of permanent loss to scare the recipient into compliance.
+"Permanent suspension": It warns that failure to act will result in the account being suspended forever.
+"Permanent closure will occur": This reinforces the idea that the loss of the account is final.
+"Access... will be blocked": A direct threat that you will lose access to your funds and banking services.
+
+
+Legal Intimidation
+"Avoid legal action": The final note escalates the threat beyond simple banking issues to potential legal consequences, which is highly irregular for a standard security alert.
