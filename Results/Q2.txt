@@ -1,0 +1,10 @@
+# Examine sender's email address for spoofing.
+
+
+Inconsistent Domain: The email originates from <support@secure-bank-update.com>, which is a generic domain name. However, the email signature claims to represent "National Banking Group Pvt Ltd". A legitimate email would typically come from the official domain of the specific banking institution (e.g., @nationalbankinggroup.com), not a generic "secure-bank-update" address.
+
+Suspicious Formatting: The domain secure-bank-update.com uses multiple hyphens, a common tactic used by attackers to create domains that look vaguely legitimate or urgent but are not owned by the actual institution.
+
+Generic Display Name: The sender uses the generic display name "Bank Security Team" rather than a specific department or person, which helps conceal the lack of a specific brand identity in the email header.
+
+These discrepancies strongly suggest the email address is spoofed and does not belong to a legitimate banking entity.
