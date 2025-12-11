@@ -1,0 +1,12 @@
+#  Verify presence of spelling or grammar errors.
+
+Grammatical Error in Subject Line
+
+The Error: The subject line reads "A Urgent: Your Bank Account Will Be Suspended!".
+Why it is suspicious: This is a clear grammatical mistake. The correct article would be "An Urgent" or simply "Urgent." Major financial institutions use automated templates that are strictly proofread and would not contain basic article errors.
+
+
+Awkward Phrasing and Terminology
+
+"Please do not ignore this mail": The use of the word "mail" instead of "email" or "correspondence" is informal and less common in official corporate notices.
+Logical Phrasing: The sentence "Please do not ignore this mail to avoid legal action" is clumsily constructed. A professional legal disclaimer would typically state, "Failure to respond may result in legal action," rather than the awkward construction used here.
