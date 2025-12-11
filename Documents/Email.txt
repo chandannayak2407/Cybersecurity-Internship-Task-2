@@ -1,19 +1,26 @@
 Subject: ⚠ Urgent: Your Bank Account Will Be Suspended!
+
 From: Bank Security Team <support@secure-bank-update.com>
 To: asishsingh2345@gmail.com
 Date: Wed, 10 Dec 2025 07:42:12 +0530
+
 Dear Customer,
 We noticed unusual login attempts on your bank account.
  To protect your funds, your account will be suspended within the next 12 hours.
 You must verify your identity immediately to avoid permanent suspension.
+
 Click the secure verification link below:
  https://secure-your-bank-account.com/login
+
 If you fail to verify your account, permanent closure will occur and access to your banking services will be blocked.
+
 Thank You,
  Bank Security & Risk Management Team
  © 2025 National Banking Group Pvt Ltd.
+
  Attached File:
 📎 Account_Verification_Form.pdf
+
  Note: Please do not ignore this mail to avoid legal action.
 
 
