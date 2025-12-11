@@ -1,0 +1,22 @@
+# Identify suspicious links or attachments.
+
+The URL: https://secure-your-bank-account.com/login
+
+Why it is suspicious:
+Generic Domain: The URL uses a highly generic name (secure-your-bank-account) rather than the official domain of a specific financial institution.
+
+Domain Mismatch: The URL domain (secure-your-bank-account.com) does not match the sender's email domain (secure-bank-update.com), a clear indicator of phishing.
+
+Credential Harvesting: The path /login suggests the page will attempt to collect your username and password under false pretenses.
+
+
+Suspicious Attachment
+
+The File: Account_Verification_Form.pdf
+
+Why it is suspicious:
+Unusual Procedure: Legitimate banks rarely attach PDF forms to unsolicited emails for identity verification. They typically ask you to log in to their secure portal directly.
+
+Malware Risk: PDF attachments in urgent emails are a common vector for delivering malware or banking trojans.
+
+Context: The attachment is presented alongside a threat of "legal action" and account suspension, a pressure tactic designed to force you to open the file without thinking.
