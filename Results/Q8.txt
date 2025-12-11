@@ -1,0 +1,18 @@
+#  Summarize phishing traits found in the email.
+
+1. Sender Anomalies
+Suspicious Sender Address: The email originates from a generic domain <support@secure-bank-update.com> rather than a specific financial institution's official domain.
+Inconsistent Branding: The sender is listed as "Bank Security Team" and claims to be from "National Banking Group Pvt Ltd", but the email domain does not match this organization's name.
+
+2. Suspicious Links and Attachments
+Generic URL: The verification link https://secure-your-bank-account.com/login uses a generic, unbranded domain that differs from the sender's email domain.
+Dangerous Attachment: The email includes a PDF attachment titled "Account_Verification_Form.pdf". This is highly irregular, as legitimate banks typically direct users to secure portals rather than sending PDF forms, which are common vectors for malware.
+
+3. Urgent and Threatening Language
+Artificial Deadlines: The email creates panic by stating the account will be suspended "within the next 12 hours".
+Threats of Consequence: It warns of "permanent suspension" and "permanent closure" if the user does not act immediately.
+Legal Intimidation: A note at the bottom threatens "legal action" if the email is ignored.
+
+4. Grammar and Formatting Errors
+Subject Line Error: The subject line contains a grammatical error: "A Urgent" instead of the correct "An Urgent".
+Informal Phrasing: The phrase "Please do not ignore this mail" uses informal language ("mail" instead of "email") and awkward sentence structure.
