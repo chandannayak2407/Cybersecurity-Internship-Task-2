@@ -1,1 +1,6 @@
 
+#  Note any mismatched URLs (hover to see real link).
+
+Sender Domain vs. URL Domain: The email originates from @secure-bank-update.com , but the link directs you to secure-your-bank-account.com. Legitimate emails from a single organization typically use the same domain for sending and linking.
+
+Organization Name vs. URL: The email signature claims to be from "National Banking Group Pvt Ltd" , but the URL uses a generic domain (secure-your-bank-account.com) rather than a corporate domain like nationalbankinggroup.com.
